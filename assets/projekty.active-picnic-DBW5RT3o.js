@@ -1,0 +1,1 @@
+import{o as e}from"./site-content-Dc4v7FD6.js";import{l as t}from"./index-CrqRMpx8.js";var n=t(),r=()=>(0,n.jsx)(e,{slug:`active-picnic`});export{r as component};

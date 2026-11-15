@@ -1,0 +1,1 @@
+import{t as e,u as t}from"./site-content-Dc4v7FD6.js";import{l as n}from"./index-CrqRMpx8.js";var r=n(),i=()=>(0,r.jsxs)(r.Fragment,{children:[(0,r.jsx)(`div`,{className:`page-spacer`}),(0,r.jsx)(t,{expanded:!0}),(0,r.jsx)(e,{})]});export{i as component};
