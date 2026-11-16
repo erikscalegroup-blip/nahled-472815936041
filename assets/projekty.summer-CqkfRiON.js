@@ -1,0 +1,1 @@
+import{a as e}from"./site-content-yNArzdaL.js";import{_ as t}from"./index-DywqOAwu.js";var n=t(),r=()=>(0,n.jsx)(e,{slug:`summer`});export{r as component};
