@@ -1,1 +1,0 @@
-import{a as e}from"./site-content-B78IyzjU.js";import{_ as t}from"./index-ZAMsNn1R.js";var n=t(),r=()=>(0,n.jsx)(e,{slug:`edu-sports`});export{r as component};
